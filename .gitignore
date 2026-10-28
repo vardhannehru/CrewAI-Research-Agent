@@ -1,0 +1,15 @@
+# Security: Secret environment variables & API keys
+.env
+
+# Python cache & compiled files
+__pycache__/
+*.pyc
+
+# Local runtime outputs
+output/
+
+# Virtual environments (if any)
+venv/
+.venv/
+env/
+    
